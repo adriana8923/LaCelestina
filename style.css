@@ -72,6 +72,5 @@ h2{
     height: 40rems; 
 }
 p1  {
-    padding-left: 10px;
-    padding-right: 5px;
+    padding: 10px;
 }
